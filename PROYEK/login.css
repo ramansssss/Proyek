@@ -1,0 +1,251 @@
+/*
+	@name login
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden;
+background: url(skins/latar.png); }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__login {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/laptop.png)
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 56px;
+	background:rgba(172.13,172.13,172.13,1);
+}
+
+
+#rectangle_9 {
+	top: 287px;
+	left: 465px;
+	width: 510px;
+	height: 429px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 352px;
+	left: 485px;
+	width: 470px;
+	height: 1px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#rectangle_ek1 {
+	top: 402px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#rectangle_ek2 {
+	top: 483px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#email {
+	top: 381px;
+	left: 519px;
+	width: 78px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#email_ek1 {
+	top: 415px;
+	left: 529px;
+	width: 78px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#kata_sandi {
+	top: 462px;
+	left: 519px;
+	width: 88px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#kata_sandi_ek1 {
+	top: 497px;
+	left: 529px;
+	width: 88px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+#group_1 {
+	top: 8px;
+	left: 1165px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#daftar {
+	top: 12px;
+	left: 16px;
+	width: 92px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+#group_2 {
+	top: 8px;
+	left: 1283px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(113.69,113.69,113.69,1);
+}
+
+
+#masuk {
+	top: 12px;
+	left: 15px;
+	width: 86px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+
+#loker_removebg_preview_1 {
+	top: 7px;
+	left: 5px;
+	width: 111px;
+	height: 54px;
+}
+
+
+#loker_removebg_preview_2 {
+	top: 298px;
+	left: 667px;
+	width: 111px;
+	height: 54px;
+}
+
+#group_3 {
+	top: 564px;
+	left: 653px;
+	width: 135px;
+	height: 40px;
+}
+
+#rectangle_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 135px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#masuk_ek1 {
+	top: 12px;
+	left: 48px;
+	width: 55px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

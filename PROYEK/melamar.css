@@ -1,0 +1,460 @@
+/*
+	@name melamar
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1652px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__melamar {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1652px;
+	background:url(skins/latar.png)
+}
+
+
+#rectangle_11 {
+	top: 56px;
+	left: 0px;
+	width: 1440px;
+	height: 270px;
+	background:rgba(54.19,54.19,54.19,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 58px;
+	background:rgba(172.13,172.13,172.13,1);
+}
+
+
+#loker_removebg_preview_3 {
+	top: 2px;
+	left: 0px;
+	width: 111px;
+	height: 54px;
+}
+
+
+#rectangle_12 {
+	top: 142px;
+	left: 234px;
+	width: 972px;
+	height: 366px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_17 {
+	top: 785px;
+	left: 239px;
+	width: 972px;
+	height: 269px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_20 {
+	top: 1068px;
+	left: 244px;
+	width: 972px;
+	height: 185px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_21 {
+	top: 1267px;
+	left: 239px;
+	width: 972px;
+	height: 185px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_22 {
+	top: 1466px;
+	left: 244px;
+	width: 972px;
+	height: 146px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_15 {
+	top: 522px;
+	left: 728px;
+	width: 478px;
+	height: 249px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_16 {
+	top: 522px;
+	left: 234px;
+	width: 485px;
+	height: 249px;
+	background:rgba(219.94,219.94,219.94,1);
+}
+
+
+#rectangle_13 {
+	top: 199px;
+	left: 330px;
+	width: 184px;
+	height: 187px;
+	-ms-border-radius: 1000px;
+	-o-border-radius: 1000px;
+	-moz-border-radius: 1000px;
+	-webkit-border-radius: 1000px;
+	border-radius: 1000px;
+	background:rgba(255,255,255,1);
+}
+
+
+#pablo_escobar {
+	top: 226px;
+	left: 552px;
+	width: 278px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#444444;
+}
+
+
+#rectangle {
+	top: 308px;
+	left: 540px;
+	width: 645px;
+	height: 1.25px;
+	background:rgba(74,74,74,1);
+}
+
+
+#saat_ini {
+	top: 340px;
+	left: 552px;
+	width: 79px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#apapun {
+	top: 384px;
+	left: 696px;
+	width: 79px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#__ {
+	top: 340px;
+	left: 696px;
+	width: 29px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#___ek1 {
+	top: 428px;
+	left: 696px;
+	width: 29px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#harapan_gaji {
+	top: 384px;
+	left: 552px;
+	width: 135px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#pendidikan {
+	top: 428px;
+	left: 552px;
+	width: 105px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#ubah {
+	top: 269px;
+	left: 555px;
+	width: 77px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#ubah_ek1 {
+	top: 540px;
+	left: 640px;
+	width: 77px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#kontak {
+	top: 540px;
+	left: 256px;
+	width: 124px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#ubah_ek2 {
+	top: 539px;
+	left: 1138px;
+	width: 77px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#data_pribadi {
+	top: 539px;
+	left: 748px;
+	width: 153px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#ubah_ek3 {
+	top: 796px;
+	left: 1138px;
+	width: 77px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#ringkasan {
+	top: 796px;
+	left: 260px;
+	width: 147px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#tambah {
+	top: 1286px;
+	left: 1112px;
+	width: 114px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#tambah_ek1 {
+	top: 1079px;
+	left: 1112px;
+	width: 132px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#pengalaman_kerja {
+	top: 1079px;
+	left: 260px;
+	width: 243px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#pendidikan_ek1 {
+	top: 1286px;
+	left: 260px;
+	width: 177px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#pengalaman_organissasi {
+	top: 1485px;
+	left: 260px;
+	width: 322px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#444444;
+}
+
+
+#tambah_ek2 {
+	top: 1485px;
+	left: 1112px;
+	width: 114px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#08AEB8;
+}
+
+
+#rectangle_23 {
+	top: 298px;
+	left: 1287px;
+	width: 100px;
+	height: 54px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(120.06,120.06,120.06,1);
+}
+
+
+#kirim {
+	top: 318px;
+	left: 1314px;
+	width: 76px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

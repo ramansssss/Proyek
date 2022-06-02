@@ -1,0 +1,158 @@
+/*
+	@name awalan
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden;
+background: url(skins/latar.png); }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__awalan {
+	padding: 0;
+	margin: 0;
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/latar.png)
+}
+
+#loker_removebg_preview_1 {
+	top: 128px;
+	left: 38px;
+	width: 709px;
+	height: 359px;
+}
+
+
+#cari_lowongan_kerja {
+	top: 547px;
+	left: 83px;
+	width: 422.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#wujudkan_impian_dan_cita_citamu {
+	top: 512px;
+	left: 75px;
+	width: 577.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bersama_loker_mari_membangun_negeri {
+	top: 549px;
+	left: 75px;
+	width: 570px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_24 {
+	top: 738px;
+	left: 841px;
+	width: 433px;
+	height: 128px;
+	-ms-border-radius: 60px;
+	-o-border-radius: 60px;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+	background:rgba(217,217,217,1);
+}
+
+#group_26 {
+	top: 752px;
+	left: 1145px;
+	width: 100px;
+	height: 100px;
+}
+
+#rectangle_25 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 100px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(68,68,68,1);
+}
+
+#akar_icons_arrow_right {
+	top: 32px;
+	left: 31px;
+	width: 38px;
+	height: 37px;
+}
+
+#vector {
+	top: 7.71px;
+	left: 6.33px;
+	width: 25.33px;
+	height: 21.58px;
+}
+
+#ic_round_login {
+	top: 771px;
+	left: 898px;
+	width: 65px;
+	height: 63px;
+}
+
+#vector_ek1 {
+	top: 7.88px;
+	left: 5.42px;
+	width: 54.17px;
+	height: 47.25px;
+}
+
+#eos_icons_system_re_registered {
+	top: 776px;
+	left: 1014px;
+	width: 55px;
+	height: 55px;
+}
+
+#vector_ek2 {
+	top: 4.58px;
+	left: 2.29px;
+	width: 50.42px;
+	height: 45.83px;
+}
+
+@media all and (max-width: 500px){
+	#_bg__awalan {
+		margin: 0;
+		padding: 0;
+	}
+
+}
+
+

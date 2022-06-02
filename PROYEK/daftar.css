@@ -1,0 +1,403 @@
+/*
+	@name daftar
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden;
+background: url(skins/latar.png); }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__daftar {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/laptop.png)
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 56px;
+	background:rgba(172.13,172.13,172.13,1);
+}
+
+
+#rectangle_10 {
+	top: 124px;
+	left: 465px;
+	width: 510px;
+	height: 748px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 189px;
+	left: 485px;
+	width: 470px;
+	height: 1px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#rectangle_ek1 {
+	top: 239px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#rectangle_ek2 {
+	top: 320px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#nama_lengkap {
+	top: 218px;
+	left: 519px;
+	width: 105px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#nama_lengkap_ek1 {
+	top: 252px;
+	left: 526px;
+	width: 105px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#email {
+	top: 299px;
+	left: 519px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#email_ek1 {
+	top: 333px;
+	left: 526px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#rectangle_ek3 {
+	top: 573px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#password {
+	top: 552px;
+	left: 519px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#password_ek1 {
+	top: 587px;
+	left: 526px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#rectangle_ek4 {
+	top: 654px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#konfirmasi_password {
+	top: 633px;
+	left: 519px;
+	width: 148px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#konfirmasi_password_ek1 {
+	top: 668px;
+	left: 526px;
+	width: 148px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#rectangle_ek5 {
+	top: 482px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#alamat_lengkap {
+	top: 461px;
+	left: 519px;
+	width: 138px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#alamat_lengkap_ek1 {
+	top: 495px;
+	left: 526px;
+	width: 138px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+
+#rectangle_ek6 {
+	top: 401px;
+	left: 519px;
+	width: 404px;
+	height: 44px;
+	border: 1px solid #484848;
+	background:rgba(245.44,245.44,245.44,1);
+}
+
+
+#nomor_hp {
+	top: 380px;
+	left: 519px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#000000;
+}
+
+
+#nomor_hp_ek1 {
+	top: 415px;
+	left: 526px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#929292;
+}
+
+#group_4 {
+	top: 745px;
+	left: 645px;
+	width: 150px;
+	height: 40px;
+}
+
+#rectangle_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 150px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#daftar {
+	top: 12px;
+	left: 60px;
+	width: 73px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 16.5px;
+	color:#FFFFFF;
+}
+
+
+#loker_removebg_preview_1 {
+	top: 1px;
+	left: 0px;
+	width: 111px;
+	height: 54px;
+}
+
+
+#loker_removebg_preview_2 {
+	top: 129px;
+	left: 664px;
+	width: 111px;
+	height: 54px;
+}
+
+#group_1 {
+	top: 8px;
+	left: 1165px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#daftar_ek1 {
+	top: 12px;
+	left: 16px;
+	width: 92px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+#group_2 {
+	top: 8px;
+	left: 1283px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(113.69,113.69,113.69,1);
+}
+
+
+#masuk {
+	top: 12px;
+	left: 15px;
+	width: 86px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

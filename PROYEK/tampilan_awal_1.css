@@ -1,0 +1,601 @@
+/*
+	@name tampilan_awal_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__tampilan_awal_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/latar.png)
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 56px;
+	background:rgba(172.13,172.13,172.13,1);
+}
+
+
+#rectangle_4 {
+	top: 56px;
+	left: 0px;
+	width: 1440px;
+	height: 90px;
+	background:rgba(136,136,136,1);
+}
+
+
+#cari_lowongan_kerja {
+	top: 85px;
+	left: 59px;
+	width: 422.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#lowongan_kerja_terpopuler {
+	top: 510px;
+	left: 49px;
+	width: 666px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cari_lowongan_kerja_ek1 {
+	top: 328px;
+	left: 602px;
+	width: 422.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_20 {
+	top: 80px;
+	left: 350px;
+	width: 494px;
+	height: 46px;
+}
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 440px;
+	height: 46px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(196,196,196,1);
+}
+
+
+#cari_berdasarkan_jabatan_nama_perusahaan_atau_kata_kunci {
+	top: 16px;
+	left: 12px;
+	width: 500.5px;
+	height: 25.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#unsplash_ryyr_k3ysqg {
+	top: 146px;
+	left: 0px;
+	width: 1440px;
+	height: 311px;
+}
+
+
+#wujudkan_impian_dan_cita_citamu {
+	top: 293px;
+	left: 594px;
+	width: 577.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#bersama_loker_mari_membangun_negeri {
+	top: 330px;
+	left: 594px;
+	width: 570px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10 {
+	top: 573px;
+	left: 19px;
+	width: 500px;
+	height: 6px;
+	-ms-border-radius: 166.5px;
+	-o-border-radius: 166.5px;
+	-moz-border-radius: 166.5px;
+	-webkit-border-radius: 166.5px;
+	border-radius: 166.5px;
+	background:rgba(79.69,79.69,79.69,1);
+}
+
+
+#loker_removebg_preview_1 {
+	top: 2px;
+	left: 0px;
+	width: 111px;
+	height: 54px;
+}
+
+
+#loker_removebg_preview_2 {
+	top: 239px;
+	left: 587px;
+	width: 111px;
+	height: 54px;
+}
+
+#group_19 {
+	top: 80px;
+	left: 793px;
+	width: 147px;
+	height: 46px;
+}
+
+#rectangle_11 {
+	top: 0px;
+	left: 0px;
+	width: 147px;
+	height: 46px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(196,196,196,1);
+}
+
+
+#lokasi {
+	top: 15px;
+	left: 36px;
+	width: 118.5px;
+	height: 25.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_14_144347_location_png_white_vector_free_library_location_icon_removebg_preview_1 {
+	top: 8px;
+	left: 12px;
+	width: 21px;
+	height: 27px;
+}
+
+#group_18 {
+	top: 80px;
+	left: 945px;
+	width: 241px;
+	height: 46px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 241px;
+	height: 46px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#cari_lowongan {
+	top: 14px;
+	left: 86px;
+	width: 124.5px;
+	height: 25.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#search_removebg_preview_1 {
+	top: 13px;
+	left: 67px;
+	width: 16px;
+	height: 18px;
+}
+
+#group_5 {
+	top: 617px;
+	left: 45px;
+	width: 212px;
+	height: 320px;
+}
+
+#rectangle {
+	top: 0px;
+	left: 0px;
+	width: 216px;
+	height: 324px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	border: 2px solid #dae1ea;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek1 {
+	top: 286px;
+	left: 21px;
+	width: 44px;
+	height: 7px;
+	border: 2px solid #dae1ea;
+	background:rgba(255,255,255,0);
+}
+
+
+#internship_talent_pool__master_degree_students_ {
+	top: 103px;
+	left: 21px;
+	width: 186px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.049999237061px;
+	margin-top: -2.6833330790202px;
+	height: 69px;
+	color:#255797;
+}
+
+
+#emtek__pt_elang_mahkota_teknologi__tbk_ {
+	top: 158px;
+	left: 21px;
+	width: 168.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	text-align: left;
+	color:#9B9B9B;
+}
+
+
+#prov__dki_jakarta {
+	top: 212px;
+	left: 41px;
+	width: 115px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: left;
+	line-height: 19.5px;
+	margin-top: -2.5px;
+	height: 40px;
+	letter-spacing: 0.10000000149012px;
+	color:#4A4A4A;
+}
+
+
+#gaji_kompetitif {
+	top: 242px;
+	left: 21px;
+	width: 96.5px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 11px;
+	text-align: left;
+	line-height: 15px;
+	letter-spacing: 0.10000000149012px;
+	color:#64B40C;
+}
+
+
+#_17_hari_lalu {
+	top: 294px;
+	left: 21px;
+	width: 65px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: left;
+	line-height: 16.5px;
+	margin-top: -2.1666666666667px;
+	height: 34px;
+	color:#9B9B9B;
+}
+
+
+#lok_black_removebg_preview_1 {
+	top: 210px;
+	left: 18px;
+	width: 20px;
+	height: 25px;
+}
+
+
+#emtek_removebg_preview_1 {
+	top: 8px;
+	left: 14px;
+	width: 125px;
+	height: 104px;
+}
+
+#group_21 {
+	top: 617px;
+	left: 290px;
+	width: 212px;
+	height: 320px;
+}
+
+#rectangle_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 216px;
+	height: 324px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	border: 2px solid #dae1ea;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek3 {
+	top: 286px;
+	left: 21px;
+	width: 44px;
+	height: 7px;
+	border: 2px solid #dae1ea;
+	background:rgba(255,255,255,0);
+}
+
+
+#senior_game_programer {
+	top: 103px;
+	left: 21px;
+	width: 186px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.049999237061px;
+	margin-top: -2.6833330790202px;
+	height: 47px;
+	color:#255797;
+}
+
+
+#pt_agate_international {
+	top: 142px;
+	left: 21px;
+	width: 168.5px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	text-align: left;
+	color:#9B9B9B;
+}
+
+
+#bandung {
+	top: 212px;
+	left: 41px;
+	width: 115px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: left;
+	line-height: 19.5px;
+	margin-top: -2.5px;
+	height: 40px;
+	letter-spacing: 0.10000000149012px;
+	color:#4A4A4A;
+}
+
+
+#gaji_kompetitif_ek1 {
+	top: 242px;
+	left: 21px;
+	width: 96.5px;
+	height: 22.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 11px;
+	text-align: left;
+	line-height: 15px;
+	letter-spacing: 0.10000000149012px;
+	color:#64B40C;
+}
+
+
+#_5_hari_lalu {
+	top: 294px;
+	left: 21px;
+	width: 65px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: left;
+	line-height: 16.5px;
+	margin-top: -2.1666666666667px;
+	height: 34px;
+	color:#9B9B9B;
+}
+
+
+#lok_black_removebg_preview_1_ek1 {
+	top: 210px;
+	left: 18px;
+	width: 20px;
+	height: 25px;
+}
+
+#group_1 {
+	top: 8px;
+	left: 1165px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#daftar {
+	top: 12px;
+	left: 16px;
+	width: 92px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+#group_2 {
+	top: 8px;
+	left: 1283px;
+	width: 91px;
+	height: 40px;
+}
+
+#rectangle_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(113.69,113.69,113.69,1);
+}
+
+
+#masuk {
+	top: 12px;
+	left: 15px;
+	width: 86px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+
+#freelance {
+	top: 510px;
+	left: 707px;
+	width: 192px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#agate_removebg_preview_2 {
+	top: 648px;
+	left: 309px;
+	width: 104px;
+	height: 57px;
+}
+
+
+
+/* Add your custom CSS here */

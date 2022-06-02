@@ -1,0 +1,544 @@
+/*
+	@name agate
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__agate {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/latar.png)
+}
+
+
+#cari_lowongan_kerja {
+	top: 85px;
+	left: 107px;
+	width: 422.5px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_11 {
+	top: 56px;
+	left: -7px;
+	width: 1447px;
+	height: 270px;
+	background:rgba(54.19,54.19,54.19,1);
+}
+
+#frame {
+	top: 245px;
+	left: 470px;
+	width: 14px;
+	height: 13px;
+}
+#group {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 13px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 13px;
+}
+
+
+#vector_ek1 {
+	top: 4px;
+	left: 2px;
+	width: 7.7px;
+	height: 7.8px;
+}
+
+
+#vector_ek2 {
+	top: 5px;
+	left: 3px;
+	width: 4.9px;
+	height: 4.55px;
+}
+
+
+#vector_ek3 {
+	top: 6px;
+	left: 7px;
+	width: 5.6px;
+	height: 5.85px;
+}
+
+
+#vector_ek4 {
+	top: 7px;
+	left: 8px;
+	width: 2.8px;
+	height: 2.6px;
+}
+
+
+#vector_ek5 {
+	top: 11px;
+	left: 0px;
+	width: 13.3px;
+	height: 0.65px;
+}
+
+
+#media {
+	top: 242px;
+	left: 489px;
+	width: 56.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: -2.6666666666667px;
+	height: 43.5px;
+	color:#FFFFFF;
+}
+
+
+#senin___sabtu {
+	top: 242px;
+	left: 607px;
+	width: 121.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: -2.6666666666667px;
+	height: 43.5px;
+	color:#FFFFFF;
+}
+
+
+#_00_00___00_00 {
+	top: 242px;
+	left: 790px;
+	width: 105px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#FFFFFF;
+}
+
+
+#senior_game_programer_pt_agate_international_ {
+	top: 203px;
+	left: 275px;
+	width: 610.5px;
+	height: 38.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.5px;
+	color:#FFFFFF;
+}
+
+
+#bandung {
+	top: 242px;
+	left: 311px;
+	width: 96.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 13px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: -2.6666666666667px;
+	height: 43.5px;
+	color:#FFFFFF;
+}
+
+
+#rectangle {
+	top: 378.97px;
+	left: 36.13px;
+	width: 219.84px;
+	height: 1.25px;
+	background:rgba(54.19,54.19,54.19,1);
+}
+
+
+#rectangle_ek1 {
+	top: 716px;
+	left: 36px;
+	width: 219.84px;
+	height: 1.25px;
+	background:rgba(54.19,54.19,54.19,1);
+}
+
+
+#rectangle_ek2 {
+	top: 378px;
+	left: 36px;
+	width: 220px;
+	height: 1px;
+	background:rgba(255,255,255,0);
+}
+
+
+#google_maps_tampilkan_ikon_berbau_kontroversi_1 {
+	top: 431px;
+	left: 36px;
+	width: 218px;
+	height: 146px;
+}
+
+
+#rectangle_ek3 {
+	opacity:0.89999997615814;
+	top: 589px;
+	left: 36px;
+	width: 220px;
+	height: 105px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background:rgba(255,255,255,0.9);
+}
+
+
+#rectangle_ek4 {
+	top: 693.95px;
+	left: 36.13px;
+	width: 219.84px;
+	height: 1.25px;
+	background:rgba(211,211,211,1);
+}
+
+
+#rectangle_ek5 {
+	top: 589px;
+	left: 36px;
+	width: 220px;
+	height: 105px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek6 {
+	top: 412px;
+	left: 296px;
+	width: 221px;
+	height: 1px;
+	background:rgba(74,74,74,1);
+}
+
+
+#rectangle_ek7 {
+	top: 784px;
+	left: 304px;
+	width: 700px;
+	height: 1.25px;
+	background:rgba(74,74,74,1);
+}
+
+
+#rectangle_ek8 {
+	top: 380px;
+	left: 305px;
+	width: 172px;
+	height: 33px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek9 {
+	top: 582px;
+	left: 314.14px;
+	width: 313.32px;
+	height: 1.25px;
+	background:rgba(211,211,211,1);
+}
+
+
+#rectangle_ek10 {
+	top: 582px;
+	left: 627.46px;
+	width: 313.32px;
+	height: 1.25px;
+	background:rgba(211,211,211,1);
+}
+
+
+#rectangle_ek11 {
+	top: 582px;
+	left: 940.79px;
+	width: 313.32px;
+	height: 1.25px;
+	background:rgba(211,211,211,1);
+}
+
+
+#alamat_perusahaan {
+	top: 396px;
+	left: 36px;
+	width: 217px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 0.5px;
+	color:#333333;
+}
+
+
+#jalan_gegerkalong_hilir_no_73a__gegerkalong_sukasari_bandung_jawa_barat_40152 {
+	top: 610px;
+	left: 39px;
+	width: 238px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	letter-spacing: 0.5px;
+	color:#333333;
+}
+
+
+#tentang_perusahaan {
+	top: 380px;
+	left: 305px;
+	width: 244px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#363636;
+}
+
+
+#lowongan_kerja_di_senior_game_programer_pt_agate_international_ {
+	top: 749px;
+	left: 314px;
+	width: 738px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.60000002384186px;
+	color:#363636;
+}
+
+
+#senior_game_programer_pt_agate_international__ek1 {
+	top: 442px;
+	left: 292px;
+	width: 525px;
+	height: 38.5px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: right;
+	letter-spacing: 0.5px;
+	color:#363636;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__ultrices_tincidunt_arcu_non_sodales_neque_sodales_ut_etiam_sit__nulla_facilisi_morbi_tempus_iaculis_urna_id_volutpat_lacus_laoreet__vel_pharetra_vel_turpis_nunc_eget_ {
+	top: 485px;
+	left: 305px;
+	width: 942px;
+	height: 95px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 28px;
+	margin-top: -4px;
+	height: 111px;
+	color:#333333;
+}
+
+
+#hari_kerja {
+	top: 651px;
+	left: 314px;
+	width: 124px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#maaf__lowongan_kerja_kosong {
+	top: 824px;
+	left: 314px;
+	width: 244px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#senin___sabtu_ek1 {
+	top: 681px;
+	left: 314px;
+	width: 152px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#333333;
+}
+
+
+#jam_kerja {
+	top: 651px;
+	left: 554px;
+	width: 104px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#_00_00___00_00_ek1 {
+	top: 681px;
+	left: 554px;
+	width: 132px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#333333;
+}
+
+
+#industri {
+	top: 651px;
+	left: 794px;
+	width: 93px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 17.5px;
+	color:#333333;
+}
+
+
+#media_ek1 {
+	top: 681px;
+	left: 794px;
+	width: 84px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Arial;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#333333;
+}
+
+
+#_14_144347_location_png_white_vector_free_library_location_icon_removebg_preview_2 {
+	top: 244px;
+	left: 286px;
+	width: 19px;
+	height: 17px;
+}
+
+
+#ori_removebg_preview_1 {
+	top: 245px;
+	left: 773px;
+	width: 12px;
+	height: 12px;
+}
+
+
+#calendar_sign_white_icon_vector_15479135_removebg_preview_1 {
+	top: 247px;
+	left: 591px;
+	width: 16px;
+	height: 13px;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 58px;
+	background:rgba(172.13,172.13,172.13,1);
+}
+
+
+#loker_removebg_preview_3 {
+	top: 2px;
+	left: 0px;
+	width: 111px;
+	height: 54px;
+}
+
+
+#agate_removebg_preview_1 {
+	top: 118px;
+	left: 43px;
+	width: 177px;
+	height: 104px;
+}
+
+
+
+/* Add your custom CSS here */

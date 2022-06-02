@@ -1,0 +1,84 @@
+/*
+	@name tampilan_akhir
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden;
+background: url(skins/latar.png); }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__tampilan_akhir {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:url(skins/latar.png)
+}
+
+
+#loker_removebg_preview_1 {
+	top: 173px;
+	left: 365px;
+	width: 709px;
+	height: 359px;
+}
+
+
+#terimakasih_telah_mendaftar_pekerjaan_lewat_situs_kami___ {
+	top: 568px;
+	left: 239px;
+	width: 998px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#444444;
+}
+
+#group_25 {
+	top: 948px;
+	left: 68px;
+	width: 155px;
+	height: 40px;
+}
+
+#rectangle {
+	top: 0px;
+	left: 0px;
+	width: 155px;
+	height: 40px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(58.44,58.44,58.44,1);
+}
+
+
+#kembali {
+	top: 12px;
+	left: 40px;
+	width: 122px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	line-height: 16.5px;
+	padding-top: 3.5px;
+	margin-top: -3.5px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
